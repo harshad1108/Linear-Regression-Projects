@@ -29,3 +29,11 @@ The dataset contains information related to:
 
 ## 🌍 Real-World Impact
 Helps farmers and agricultural organizations make data-driven decisions to improve crop production.
+
+## 📊 Heatmap: Rainfall vs Crop Yield
+
+This heatmap shows the relationship between rainfall and crop yield.
+Higher rainfall generally leads to higher crop yield, indicating a strong positive correlation.
+
+![Rainfall vs Crop Yield Heatmap](images/correlation.png)
+
